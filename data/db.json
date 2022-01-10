@@ -1,0 +1,16 @@
+{
+  "ids": {
+    "User": 7,
+    "UserCredentials": 2
+  },
+  "models": {
+    "User": {
+      "1": "{\"id\":\"1\",\"realm\":\"abc\",\"username\":\"pdmquan@gmail.com\",\"email\":\"pdmquan@gmail.com\",\"emailVerified\":true,\"verificationToken\":\"abc\",\"additionalProp1\":{}}",
+      "4": "{\"id\":\"4\",\"realm\":\"abc\",\"username\":\"pdmquan@gmail.com\",\"email\":\"pdmquan@gmail.com\",\"emailVerified\":true,\"verificationToken\":\"abc\",\"additionalProp1\":{}}",
+      "6": "{\"id\":\"6\",\"realm\":\"abc\",\"username\":\"huuthien@gmail.com\",\"email\":\"huuthien@gmail.com\",\"emailVerified\":true,\"verificationToken\":\"abc\",\"additionalProp1\":{}}"
+    },
+    "UserCredentials": {
+      "e35fff67-cd39-41c9-b149-2472d4ce5e08": "{\"id\":\"e35fff67-cd39-41c9-b149-2472d4ce5e08\",\"password\":\"$2a$10$hycCOnvMr3JUVpohyoS2au6GSrqqkp9BjY3Oteg7vvjbk4vNI4zX6\",\"userId\":\"6\"}"
+    }
+  }
+}
